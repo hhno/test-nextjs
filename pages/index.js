@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
-      Hello nextJs
+      Hello nextJs 2 2 2
     </>
   )
 }
